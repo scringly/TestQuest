@@ -5,7 +5,7 @@ null,
 {"id":3,"expanded":false,"name":"TrollBar","order":2,"parentId":2,"scrollX":595.6363636363636,"scrollY":332.3636363636364},
 {"id":4,"expanded":true,"name":"SewerOfficeTower","order":3,"parentId":0,"scrollX":610.1818181818181,"scrollY":653.0909090909091},
 {"id":5,"expanded":false,"name":"Corporate01","order":4,"parentId":4,"scrollX":884.7272727272727,"scrollY":499.6363636363637},
-{"id":6,"expanded":false,"name":"Coporate02","order":5,"parentId":4,"scrollX":884.7272727272727,"scrollY":701.4545454545455},
-{"id":7,"expanded":false,"name":"Corporate03","order":6,"parentId":4,"scrollX":893.4545454545455,"scrollY":498.54545454545456},
+{"id":6,"expanded":false,"name":"Coporate02","order":5,"parentId":4,"scrollX":811,"scrollY":456.5},
+{"id":7,"expanded":false,"name":"Corporate03","order":6,"parentId":4,"scrollX":811,"scrollY":503.5},
 {"id":8,"expanded":false,"name":"TrojanBase","order":7,"parentId":7,"scrollX":1092,"scrollY":609.3333333333334}
 ]
