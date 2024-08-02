@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"$johnfortnite","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"JohnInternet","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"$asdfmovie56","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"asklghfj5678910","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"$trollstucks","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"meepster_x3","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"","characterIndex":0,"characterName":"$trollstucks","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"xX_l1f3P41n_xx","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$johnfortnite","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"noobs","traits":[],"initialLevel":1,"maxLevel":99,"name":"JohnInternet","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"$asdfmovie56","classId":2,"equips":[1,1,2,3,0],"faceIndex":1,"faceName":"noobs","traits":[],"initialLevel":1,"maxLevel":99,"name":"asklghfj5678910","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"$trollstucks","classId":3,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"xX_l1f3P41n_xx","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"$trollstucks","classId":4,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"meepster_x3","nickname":"","note":"","profile":""}
 ]
